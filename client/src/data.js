@@ -1,4 +1,4 @@
-export default [
+let myData = [
     {
       img:
         "https://images.unsplash.com/photo-1536514072410-5019a3c69182?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60",
@@ -13,7 +13,12 @@ export default [
       title: "Zakynthos",
       text:
         "This was like being a pirate and we were looking to bury our treasure. It was so isolated and beautiful. ",
-      url: "https://unsplash.com/s/photos/santorini"
+      url: "https://unsplash.com/s/photos/Zakynthos"
     }
   ];
-  
+
+
+
+  export default  myData;
+
+

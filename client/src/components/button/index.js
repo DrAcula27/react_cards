@@ -1,9 +1,10 @@
 import React from 'react'
 
-const Button = () => {
+const Button = (props) => {
   return (
-    <div>Button</div>
+      <a href={props.url} target="_blank">See More Pictures</a>
   )
 }
 
-export default Button
+export default Button;
+
