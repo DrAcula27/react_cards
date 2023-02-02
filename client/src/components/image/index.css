@@ -1,3 +1,5 @@
-.card-image{
-    max-height: 200px;
+.card-image {
+  max-height: 200px;
+  border: 2px ridge palegoldenrod;
+  border-radius: 1em;
 }

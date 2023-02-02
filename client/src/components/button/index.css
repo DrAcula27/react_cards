@@ -1,0 +1,16 @@
+button {
+  padding: 0.5em 1em;
+  border: 2px solid aliceblue;
+  border-radius: 0.5em;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: aliceblue;
+  box-shadow: 2px 2px 5px palegoldenrod;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
